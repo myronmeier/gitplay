@@ -1,3 +1,4 @@
 f1 = new file
- line 2
+ line 2 (f3 modified)
  line 3
+f2 = new change
